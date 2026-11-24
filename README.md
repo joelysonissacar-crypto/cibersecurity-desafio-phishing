@@ -26,3 +26,25 @@ O atacante usa 3 coisas:
 6. Escolhi a opção `3) Credential Harvester Attack Method`
 7. Escolhi a opção `2) Site Cloner`
 8. Usei como teste a página pública e sem login:
+
+
+**Observação importante:** Ao tentar clonar o site `facebook.com`, o próprio SET retornou o erro `Unable to clone this specific site`, pois o Facebook bloqueia esse tipo de clonagem. Isso mostra que serviços grandes possuem proteções contra isso.
+
+## O que aprendi
+- Como o atacante monta a estrutura do golpe
+- Por que o endereço (URL) da página é o maior sinal de que é falso
+- Por que nunca devemos digitar senha em link que chega por mensagem
+
+## Como se proteger de Phishing
+
+1. Sempre olhe o endereço do site. Se for `facebok.com` ou um IP estranho, não é o Facebook.
+2. Nunca clique em link de e-mail ou WhatsApp pedindo para trocar senha. Vá direto no app oficial.
+3. Ative a verificação em duas etapas.
+4. Desconfie de urgência: "Sua conta vai ser bloqueada agora!"
+5. Verifique o cadeado e o certificado, mas lembre: cadeado sozinho não garante que é verdadeiro.
+
+## Pasta de imagens
+Prints do laboratório estão organizados em `/images`.
+
+## Conclusão
+O phishing funciona mais pela engenharia social (enganar a pessoa) do que por hackear o computador. Por isso, a melhor defesa é a atenção e a educação do usuário.
