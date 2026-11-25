@@ -25,7 +25,7 @@ O atacante usa 3 coisas:
 5. Escolhi a opção `2) Website Attack Vectors`
 6. Escolhi a opção `3) Credential Harvester Attack Method`
 7. Escolhi a opção `2) Site Cloner`
-8. Usei como teste a página pública e sem login:
+8. Usei como teste a página pública e sem login:http://www.facebook.com
 
 
 **Observação importante:** Ao tentar clonar o site `facebook.com`, o próprio SET retornou o erro `Unable to clone this specific site`, pois o Facebook bloqueia esse tipo de clonagem. Isso mostra que serviços grandes possuem proteções contra isso.
